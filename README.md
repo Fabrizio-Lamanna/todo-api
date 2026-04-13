@@ -36,3 +36,16 @@ Configuración mediante `application.yml`.
 - Java 17
 - Maven
 - PostgreSQL
+
+---
+
+## ▶️ Ejecutar
+
+# clonar el repositorio
+git clone https://github.com/tu-usuario/todo-api.git
+
+# entrar al proyecto
+cd todo-api
+
+# ejecutar con Maven
+./mvnw spring-boot:run
