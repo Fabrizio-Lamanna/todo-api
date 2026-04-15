@@ -19,7 +19,14 @@ Backend de una aplicación **ToDo List** desarrollada con Spring Boot.
 
 ## 🧱 Arquitectura del proyecto
 
-...proximamente...
+El proyecto sigue una arquitectura en capas:
+
+- **Controller:** expone endpoints REST
+- **Service:** contiene la lógica de negocio
+- **Repository:** acceso a datos con JPA
+- **Database:** PostgreSQL
+
+---
 
 ## 🗄️ Base de datos
 
